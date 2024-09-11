@@ -36,45 +36,33 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Read faster with no training
-    description                           : UpRead is designed to allow you to increase your reading speed without any prior training. From the get go, your reading speed will be faster than the average person!
+  - title                                 : Read faster. Read more
+    description                           : UpRead is designed to make you read faster from the get go and to be less stressful for your vision on mobile devices.
     fontawesome_icon_name                 : bolt
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : No training required
+    description                           : No need for boring exercises or prior training. You can use UpRead without any experience and still get most of the benefits.
+    fontawesome_icon_name                 : dumbbell
+
+  - title                                 : In your pocket
+    description                           : UpRed works great especially on iPhone, allowing you to read comfortably and fast even on a small screen.
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Backed by science
+    description                           : We developed UpRead based on promising scientific evidence and experiments. It helps all readers, including those with ADHD or vision impairments.
+    fontawesome_icon_name                 : flask
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Progress with time
+    description                           : Even if UpRead does not require training, experience will make you faster and more comfortable with the reading method.
     fontawesome_icon_name                 : star
+  
+  - title                                 : Books, artickes, docs
+    description                           : UpRead supports a wide range of data sources, including web pages and pdf and txt files.
+    fontawesome_icon_name                 : book
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+  - title                                 : Customizable
+    description                           : You can configure the speed, reading technique, look, colors and more withing the app.
+    fontawesome_icon_name                 : cog
 
 
 
